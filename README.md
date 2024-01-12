@@ -1,6 +1,6 @@
 # Odin Weather App
 
-Simple Weather App created with JavaScript. This program utilize [Weather API](https://www.weatherapi.com/) to show weather's data.
+Simple Weather App created with JavaScript. This program utilize [Weather API](https://www.weatherapi.com/) to show weather data.
 
 ## Result
 
