@@ -47,7 +47,7 @@ function fillWeatherWidget(weather: Weather) {
   conditionTextDiv.setAttribute('class', 'text-2xl text-center mb-2');
 
   const locationDiv = document.createElement('div');
-  locationDiv.textContent = `${weather.location.country}, ${weather.location.name}`;
+  locationDiv.textContent = `${weather.location.name}, ${weather.location.country}`;
   locationDiv.setAttribute('class', 'text-xl text-center mb-2');
 
   const conditionIcon = document.createElement('img');
