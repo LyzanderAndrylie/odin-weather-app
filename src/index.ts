@@ -1,7 +1,7 @@
 import './main.css';
 
 const API_KEY = '64639162cde7412b81275428241201';
-const BASE_URL = 'http://api.weatherapi.com/v1';
+const BASE_URL = 'https://api.weatherapi.com/v1';
 
 type Weather = {
   current: {
