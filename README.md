@@ -1,7 +1,17 @@
-# ODIN WEBPACK TS TEMPLATE
+# Odin Weather App
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Simple Weather App created with JavaScript. This program utilize [Weather API](https://www.weatherapi.com/) to show weather's data.
 
-This template is created to create a simple HTML project for [The Odin Project](https://www.theodinproject.com/ "The Odin Project") using the following technologies.
+## Result
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,ts,tailwind,webpack,github)](https://skillicons.dev)
+Check out here! :smile:
+
+:link: <https://lyzanderandrylie.github.io/odin-weather-app/index.html>
+
+## Requirements
+
+To check out full requirements, click this [link](https://www.theodinproject.com/lessons/node-path-javascript-weather-app "Project: Weather App")  
+
+## Note
+
+Remember that `flex-shrink: 1` is applied by default for flex item `<article class="mx-2 flex min-h-[400px] w-80 flex-col gap-2 rounded-xl border-2 border-black p-2">`
